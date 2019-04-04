@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/doophack/Wissal
 cd Wissal
-python3 Wissal -h 
+python3 wissal.py -h 
 ```
 
 ## Usage: 
