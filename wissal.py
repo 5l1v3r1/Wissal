@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Created By Benelhaj_younes
+# Created By r2dr0dn
 
 import argparse, os, sys, requests
 from hashlib import *
@@ -8,7 +8,7 @@ from datetime import *
 __program__ = 'lover'
 __version__ = 'v2'
 __author__ = 'Benelhaj_younes'
-__github__ = 'https://github.com/doophack/lover'
+__github__ = 'https://github.com/r2dr0dn/lover'
 class bcolors:
 	##############################3
 	Green="\033[1;33m"
@@ -60,7 +60,7 @@ print("        "+bcolors.unknown6+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 print("        "+bcolors.unknown6+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+bcolors.unknown6+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+bcolors.Blue+"                   "+bcolors.unknown+"["+bcolors.unknown7+"Wissal"+bcolors.unknown+"]"+bcolors.unknown+"         ")
-print("     "+bcolors.purple+"             "+bcolors.unknown+"["+bcolors.unknown9+"Created By Benelhaj_younes"+bcolors.unknown+"]"+bcolors.unknown+"    "+bcolors.Reset+"\n")
+print("     "+bcolors.purple+"             "+bcolors.unknown+"["+bcolors.unknown9+"  Created By r2dr0dn"+bcolors.unknown+"]"+bcolors.unknown+"    "+bcolors.Reset+"\n")
 def genpass():
 	key = 0
 	start = datetime.now()
